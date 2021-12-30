@@ -1,40 +1,22 @@
-AlertOps Expert Guidance
+AlertOps Paging for Enterprise
 ========
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+A typical alert management system enables enterprises to deliver notifications to incident management teams – and that’s all. But what happens if multiple teams need to engage with one another to troubleshoot a major incident? In this instance, it may be impossible for an enterprise to use its alert tracking system to notify the right stakeholders, at the right time. As such, this enterprise may suffer brand reputation damage, revenue losses and other problems due to its inability to alert key stakeholders about an incident and streamline incident response.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+For enterprises, it is paramount to use an alert management system that boasts manual paging capabilities. In fact, an enterprise alert tracking system with manual paging offers many benefits over all other options, and these benefits include:
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+    You can connect team members via a conference bridge. An incident management team can send a voice message or email to get the right stakeholders to join a call – with no dial-in instructions required.
+    You can send simultaneous page-outs to large groups. An incident management team can send alerts to multiple groups at the same time. Or, an incident management team can instantly deliver multi-modal pages to large groups across an enterprise.
+    You can send manual pages from a service desk app. An incident management team can assign groups and bridge numbers from a service desk and provide status updates to a service desk in real-time.
+    You can reach out to many teams and users in just seconds. An incident management team can leverage pre-built topic templates to page out for a major incident. Plus, topics can be assigned to teams to further accelerate incident response.
+    You can track an incident’s status. You can keep a record of every person who is alerted about an incident, along with alert methods, escalations and acknowledgements.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Manual paging is one of several key features that an enterprise needs to consider as it searches for the ideal alert management system. However, an enterprise that allocates time and resources to analyze the different types of alert tracking systems can make an informed decision. As a result, this enterprise can empower its incident management team with the ability to keep pace with downtime, outages and other incidents and help it resolve such problems faster than ever before.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
-
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-paging-for-enterprise/
 
 Read more:
 ====
